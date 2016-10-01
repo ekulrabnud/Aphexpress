@@ -1,0 +1,14 @@
+{
+  "name": "aphexpress",
+  "version": "1.0.0",
+  "description": "Aphex tune player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke Dunbar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
